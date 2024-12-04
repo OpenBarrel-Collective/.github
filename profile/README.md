@@ -4,6 +4,6 @@
   <br>OpenBarrel Collective
 </h1>
   <p align="center">
-    An open-source collective dedicated to developing efficient, scalable Minecraft plugins and mods.
+    An open-source collective dedicated to developing efficient, scalable Minecraft solutions.
   </p>
 </p>
