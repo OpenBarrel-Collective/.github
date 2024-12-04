@@ -4,8 +4,6 @@
   <br>OpenBarrel Collective
 </h1>
   <p align="center">
-    OpenSource Collective with the focus on minecraft plugins / mods.
-    <br />
-    <strong>Currently under heavy construction. Our first plugin called Easy EnderChests is coming january.</strong>
+    An open-source collective dedicated to developing efficient, scalable Minecraft plugins and mods.
   </p>
 </p>
